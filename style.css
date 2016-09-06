@@ -1,6 +1,6 @@
 @import 'https://fonts.googleapis.com/css?family=Fascinate+Inline|Pacifico';
 @import 'https://fonts.googleapis.com/css?family=Baloo+Tamma';
-body{
+.index{
   background-image: url(http://dragonsandwhimsy.com/wp-content/uploads/2014/11/blizzard-entertainment-world-of-warcraft-2510240-1550x923.jpg);
 }
 h1{
@@ -15,8 +15,24 @@ border: 3.5px solid darkblue;
 .h{
   text-align: center;
 }
-.depression{
+.ff{
   text-align: center;
+  color: red;
+  border: 3.5px solid darkred;
+  padding: 10px;
+  font-size: 20px;
+  font-family: 'Baloo Tamma';
+  background-color: pink;
+}
+.o{
+  text-align: center;
+  background-color: lightgreen;
+  color: green;
+  border: 4px solid darkgreen;
+  padding: 20px;
+}
+.depression{
+display: inline;
   color: green;
   font-family: 'Baloo Tamma';
   background-color: lightgreen;
