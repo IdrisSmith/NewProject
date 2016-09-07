@@ -1,6 +1,8 @@
 @import 'https://fonts.googleapis.com/css?family=Fascinate+Inline|Pacifico';
 @import 'https://fonts.googleapis.com/css?family=Baloo+Tamma';
+
 .index{
+text-align: center;
   background-image: url(http://dragonsandwhimsy.com/wp-content/uploads/2014/11/blizzard-entertainment-world-of-warcraft-2510240-1550x923.jpg);
 }
 h1{
@@ -15,6 +17,9 @@ border: 3.5px solid darkblue;
 .h{
   text-align: center;
 }
+.i{
+  border: 3.5px solid black;
+}
 .ff{
   text-align: center;
   color: red;
@@ -26,7 +31,7 @@ border: 3.5px solid darkblue;
 }
 .o{
   text-align: center;
-  background-color: lightgreen;
+  background-color: #FFCC66;
   color: green;
   border: 4px solid darkgreen;
   padding: 20px;
