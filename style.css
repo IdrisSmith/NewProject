@@ -2,11 +2,11 @@
 @import 'https://fonts.googleapis.com/css?family=Baloo+Tamma';
 .over{
   text-align: center;
-  background-color: radial-gradient(orange, darkgrey);
+  background-image: url(http://hdqwalls.com/download/overwatch-logo-hd-pic-2048x1152.jpg);
 }
 .index{
 text-align: center;
-  background-image: url(http://dragonsandwhimsy.com/wp-content/uploads/2014/11/blizzard-entertainment-world-of-warcraft-2510240-1550x923.jpg);
+background-image: url(http://dragonsandwhimsy.com/wp-content/uploads/2014/11/blizzard-entertainment-world-of-warcraft-2510240-1550x923.jpg);
 }
 h1{
   font-family: 'Fascinate Inline', cursive;
@@ -23,6 +23,12 @@ border: 3.5px solid darkblue;
 .i{
   border: 3.5px solid black;
 }
+.wow{
+  text-align: center;
+  border: 3.5px solid darkred;
+  padding: 20px;
+  background-color: pink;
+}
 .ff{
   text-align: center;
   color: red;
@@ -35,8 +41,7 @@ border: 3.5px solid darkblue;
 .o{
   text-align: center;
   background-color: #FFCC66;
-  color: green;
-  border: 4px solid darkgreen;
+  border: 4px solid #C96F00;
   padding: 20px;
 }
 .depression{
