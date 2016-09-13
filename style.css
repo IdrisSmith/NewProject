@@ -23,6 +23,11 @@ border: 3.5px solid darkblue;
 .i{
   border: 3.5px solid black;
 }
+.diablo{
+  text-align: center;
+  border: 3.5px solid black;
+  background-color: #BCBCBC;
+}
 .wow{
   text-align: center;
   border: 3.5px solid darkred;
