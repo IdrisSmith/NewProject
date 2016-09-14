@@ -27,6 +27,8 @@ border: 3.5px solid darkblue;
   text-align: center;
   border: 3.5px solid black;
   background-color: #BCBCBC;
+  width: 50%;
+  margin-left: 25%;
 }
 .wow{
   text-align: center;
